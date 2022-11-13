@@ -14,4 +14,6 @@
 - 🦆 I made the [4Ducks Budget](https://www.4ducksbudget.app) iOS and Android apps (uses proprietary UI kit, so not OSS yet)
 - ✨ Fun fact: All the profits from my side gigs go to [helping my mom](https://www.tygertec.com/project/save-mom)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I2GCCIY)
+
 ![Ty's github stats](https://github-readme-stats.vercel.app/api?username=tygerbytes&show_icons=true&theme=dark)
