@@ -16,4 +16,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I2GCCIY)
 
-![Ty's github stats](https://github-readme-stats.vercel.app/api?username=tygerbytes&show_icons=true&theme=dark)
+<!--
+![My languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=tygerbytes&show_icons=true&theme=dark&langs_count=10&hide=html)
+
+![My github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tygerbytes&show_icons=true&theme=dark)
+-->
